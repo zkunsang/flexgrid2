@@ -1,0 +1,8 @@
+.flex-container {
+  display: flex;
+  height: 100vh;
+}
+
+.flex-item:nth-child(2) {
+  align-self: center;
+}
